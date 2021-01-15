@@ -1,0 +1,18 @@
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\paketWisata\bin\Debug\paketWisata.exe
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\paketWisata\bin\Debug\paketWisata.pdb
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\paketWisata\bin\Debug\paketWisata.xml
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\paketWisata\obj\x86\Debug\paketWisata.Form1.resources
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\paketWisata\obj\x86\Debug\paketWisata.Resources.resources
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\paketWisata\obj\x86\Debug\paketWisata.vbproj.GenerateResource.Cache
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\paketWisata\obj\x86\Debug\paketWisata.exe
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\paketWisata\obj\x86\Debug\paketWisata.xml
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\paketWisata\obj\x86\Debug\paketWisata.pdb
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\paketWisata\paketWisata\obj\x86\Debug\paketWisata.exe
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\paketWisata\paketWisata\obj\x86\Debug\paketWisata.xml
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\paketWisata\paketWisata\obj\x86\Debug\paketWisata.pdb
+C:\Users\UmarSahid\Documents\Visual Studio 2010\Projects\paketWisata\paketWisata\bin\Debug\paketWisata.exe
+C:\Users\UmarSahid\Documents\Visual Studio 2010\Projects\paketWisata\paketWisata\bin\Debug\paketWisata.pdb
+C:\Users\UmarSahid\Documents\Visual Studio 2010\Projects\paketWisata\paketWisata\bin\Debug\paketWisata.xml
+C:\Users\UmarSahid\Documents\Visual Studio 2010\Projects\paketWisata\paketWisata\obj\x86\Debug\paketWisata.Form1.resources
+C:\Users\UmarSahid\Documents\Visual Studio 2010\Projects\paketWisata\paketWisata\obj\x86\Debug\paketWisata.Resources.resources
+C:\Users\UmarSahid\Documents\Visual Studio 2010\Projects\paketWisata\paketWisata\obj\x86\Debug\paketWisata.vbproj.GenerateResource.Cache
